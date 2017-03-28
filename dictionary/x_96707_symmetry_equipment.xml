@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Equipment" max_length="40" name="x_96707_symmetry_equipment" type="collection"/>
+</database>
